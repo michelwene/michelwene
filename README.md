@@ -12,6 +12,6 @@ __
 
 ## Meus stats
 
-[![Michelwene GitHub stats](https://github-readme-stats.vercel.app/api?username=michelwenea)](https://github.com/michelwene/github-readme-stats)
+[![Michelwene GitHub stats](https://github-readme-stats.vercel.app/api?username=michelwene)](https://github.com/michelwene/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelwene)](https://github.com/michelwene/github-readme-stats)
