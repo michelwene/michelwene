@@ -1,4 +1,4 @@
-![Bem vindo ao Dev Wene!](https://github.com/michelwene/michelwene/blob/main/header.png)
+![Bem vindo ao Dev Wene!](https://github.com/michelwene/michelwene/blob/main/header2.png)
 
 __
 
