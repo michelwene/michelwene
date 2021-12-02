@@ -14,4 +14,4 @@ __
 
 [![Michelwene GitHub stats](https://github-readme-stats.vercel.app/api?username=michelwene&show_icons=true&theme=dark)](https://github.com/michelwene/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelwene)](https://github.com/michelwene/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelwene&show_icons=true&theme=dark)](https://github.com/michelwene/github-readme-stats)
