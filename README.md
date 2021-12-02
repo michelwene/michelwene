@@ -19,3 +19,5 @@ __
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michelwene&repo=stats-preview-card&show_icons=true&theme=dark)](https://github.com/michelwene/stats-preview-card)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michelwene&repo=Order-Summary&show_icons=true&theme=dark)](https://github.com/michelwene/Order-Summary)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?michelwene=willianrod)](https://github.com/michelwene/michelwene)
