@@ -16,4 +16,4 @@ __
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelwene&show_icons=true&theme=dark)](https://github.com/michelwene/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michelwene&repo=michelwene)](https://github.com/michelwene/michelwene)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michelwene&repo=stats-preview-card&show_icons=true&theme=dark)](https://github.com/michelwene/stats-preview-card)
