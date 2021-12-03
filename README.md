@@ -3,7 +3,7 @@
 __
 
 <h1 align="center">Oi 👋, Meu nome é Michel Wene</h1>
-<h3 align="center">Sou desenvolvedor de software Front-end, nascido em Diadema - São Paulo, porém estou morando em Quatá - São Paulo.</h3>
+<h3 align="center">Sou desenvolvedor de software Front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelwene&label=Profile%20views&color=0e75b6&style=flat" alt="michelwene" /> </p>
 
