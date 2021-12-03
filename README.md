@@ -7,19 +7,19 @@ __
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelwene&label=Profile%20views&color=0e75b6&style=flat" alt="michelwene" /> </p>
 
-- 🔭 Eu atualmente estou trabalhando em [nft-preview-card](https://github.com/michelwene/nft-preview-card-component)
+- 🔭 Eu atualmente estou trabalhando em: [nft-preview-card](https://github.com/michelwene/nft-preview-card-component)
 
-- 🌱 Atualmente estou aprendendo **HTML, CSS, Javascript, Git.**
+- 🌱 Atualmente estou aprendendo: **HTML, CSS, Javascript, Git.**
 
-- 👨‍💻 Veja todos os meus projetos realizados [https://github.com/michelwene?tab=repositories](https://github.com/michelwene?tab=repositories)
+- 👨‍💻 Veja todos os meus projetos realizados: [https://github.com/michelwene?tab=repositories](https://github.com/michelwene?tab=repositories)
 
-- 💬 Pergunte-me sobre **HTML, CSS, Javascript, Git, VSCode**
+- 💬 Pergunte-me sobre: **HTML, CSS, Javascript, Git, VSCode**
 
-- 📫 Como você pode me contatar **michelwene@hotmail.com**
+- 📫 Como você pode me contatar: **michelwene@hotmail.com**
 
 - 📄 Conheça minhas experiências profissionais: [https://www.linkedin.com/in/michelwene/](https://www.linkedin.com/in/michelwene/)
 
-- ⚡ Fato engraçado **Geralmente do nada eu falo sozinho, falando nada com nada. "É só para esvaziar a mente kkk"**
+- ⚡ Fato engraçado: **Geralmente do nada eu falo sozinho, falando nada com nada. "É só para esvaziar a mente kkk"**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
