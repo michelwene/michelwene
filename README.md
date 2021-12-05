@@ -9,7 +9,7 @@ __
 
 - 🔭 Eu atualmente estou trabalhando em: [nft-preview-card](https://github.com/michelwene/nft-preview-card-component)
 
-- 🌱 Atualmente estou aprendendo: **HTML, CSS, Javascript, Git.**
+- 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, Git.**
 
 - 👨‍💻 Veja todos os meus projetos realizados: [https://github.com/michelwene?tab=repositories](https://github.com/michelwene?tab=repositories)
 
