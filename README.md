@@ -9,7 +9,7 @@ __
 
 ```javascript
 const wene = {
-  pronouns: "he" | "him",
+  pronouns: "he",
   code: [Javascript, HTML, CSS],
   tools: [React, Styled-Components, React Rocks],
   architecture: ["design system pattern"],
