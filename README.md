@@ -14,9 +14,9 @@ const wene = {
   tools: [React, Styled-Components, React Rocks],
   architecture: ["design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
+                        coorganizer: "Conquiste sua vaga",
                         speaker: "pt_BR",
-                        mentor: "Conquiste sua vaga"
+                        mentor: "Pedro Marins"
                       },
  challenge: "TemplateMarketplace "
 }
