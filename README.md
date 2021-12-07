@@ -24,7 +24,7 @@ const wene = {
 
 - 🔭 Eu atualmente estou trabalhando em: [TemplateMarketplace](https://github.com/KaikOliveira/TemplateMartkplace)
 
-- 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, Git.**
+- 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, ReactJS, Git.**
 
 - 👨‍💻 Veja todos os meus projetos realizados: [https://github.com/michelwene?tab=repositories](https://github.com/michelwene?tab=repositories)
 
