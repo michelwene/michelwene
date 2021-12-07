@@ -6,7 +6,21 @@ __
 <h3 align="center">Sou desenvolvedor de software Front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelwene&label=Profile%20views&color=0e75b6&style=flat" alt="michelwene" /> </p>
-[![Linkedin: michelwene](https://img.shields.io/badge/-michelwene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelwene/)](https://www.linkedin.com/in/michelwene/)
+
+```javascript
+const wene = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Styled-Components, React Rocks],
+  architecture: ["design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "pt_BR",
+                        mentor: "Conquiste sua vaga"
+                      },
+ challenge: "TemplateMarketplace "
+}
+```
 
 - 🔭 Eu atualmente estou trabalhando em: [nft-preview-card](https://github.com/michelwene/nft-preview-card-component)
 
