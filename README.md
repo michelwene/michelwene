@@ -22,7 +22,7 @@ const wene = {
 }
 ```
 
-- 🔭 Eu atualmente estou trabalhando em: [nft-preview-card](https://github.com/michelwene/nft-preview-card-component)
+- 🔭 Eu atualmente estou trabalhando em: [TemplateMarketplace](https://github.com/KaikOliveira/TemplateMartkplace)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, Git.**
 
