@@ -47,7 +47,7 @@ const wene = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelwene&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="michelwene" />
 &nbsp;
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=michelwene&show_icons=true&theme=dark&locale=en" alt="michelwene" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=michelwene&show_icons=true&theme=dark&locale=en" alt="michelwene" /></p>
 
 
 
