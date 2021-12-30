@@ -22,7 +22,7 @@ const wene = {
 }
 ```
 
-- 🔭 Eu atualmente estou trabalhando em: [TemplateMarketplace](https://github.com/KaikOliveira/TemplateMartkplace)
+- 🔭 Eu atualmente estou trabalhando em: [intro-component-with-signup-form](https://github.com/michelwene/intro-component-with-signup-form)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, ReactJS, Git.**
 
