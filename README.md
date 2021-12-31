@@ -34,7 +34,6 @@ const wene = {
 
 - 📄 Conheça minhas experiências profissionais: [https://www.linkedin.com/in/michelwene/](https://www.linkedin.com/in/michelwene/)
 
-- ⚡ Fato engraçado: **Geralmente do nada eu falo sozinho, falando nada com nada. "É só para esvaziar a mente kkk"**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
