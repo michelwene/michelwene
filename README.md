@@ -18,7 +18,7 @@ const wene = {
                         speaker: "pt_BR",
                         mentor: "Pedro Marins"
                       },
- challenge: "TemplateMarketplace "
+ challenge: "intro-component-with-signup-form "
 }
 ```
 
