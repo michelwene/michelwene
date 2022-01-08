@@ -21,7 +21,7 @@ const wene = {
 }
 ```
 
-- 🔭 Eu atualmente estou trabalhando em: [intro-component-with-signup-form](https://github.com/michelwene/intro-component-with-signup-form)
+- 🔭 Eu atualmente estou trabalhando em: [article-preview-component](https://github.com/michelwene/article-preview-component)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, ReactJS, Git.**
 
