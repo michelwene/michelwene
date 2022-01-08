@@ -17,7 +17,7 @@ const wene = {
                         speaker: "pt_BR",
                         mentor: "Pedro Marins"
                       },
- challenge: "article-preview-component "
+ challenge: "article-preview-component"
 }
 ```
 
