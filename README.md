@@ -17,11 +17,11 @@ const wene = {
                         speaker: "pt_BR",
                         mentor: "Pedro Marins"
                       },
- challenge: "sunnyside-agency-landing-page"
+ challenge: "testimonials-grid-section"
 }
 ```
 
-- 🔭 Eu atualmente estou trabalhando em: [sunnyside-agency-landing-page](https://github.com/michelwene/sunnyside-agency-landing-page)
+- 🔭 Eu atualmente estou trabalhando em: [testimonials-grid-section](https://github.com/michelwene/testimonials-grid-section)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, ReactJS, Git.**
 
