@@ -17,11 +17,11 @@ const wene = {
                         speaker: "pt_BR",
                         mentor: "Pedro Marins"
                       },
- challenge: "personal-portfolio"
+ challenge: "calculator-app"
 }
 ```
 
-- 🔭 Eu atualmente estou trabalhando em: [personal-portfolio](https://github.com/michelwene/personal-portfolio)
+- 🔭 Eu atualmente estou trabalhando em: [calculator-app](https://github.com/michelwene/calculator-app)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, ReactJS, Git.**
 
