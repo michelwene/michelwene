@@ -46,7 +46,3 @@ const wene = {
 &nbsp;
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=michelwene&show_icons=true&theme=dark&locale=en" alt="michelwene" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michelwene&theme=dark" alt="michelwene" /></p>
