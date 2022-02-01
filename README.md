@@ -17,11 +17,11 @@ const wene = {
                         speaker: "pt_BR",
                         mentor: "Pedro Marins"
                       },
- challenge: "easy-banking-landing-page"
+ challenge: "https://github.com/michelwene/e-commerce"
 }
 ```
 
-- 🔭 Eu atualmente estou trabalhando em: [easy-banking-landing-page](https://github.com/michelwene/easy-banking-landing-page)
+- 🔭 Eu atualmente estou trabalhando em: [e-commerce](https://github.com/michelwene/e-commerce)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, ReactJS, Git.**
 
