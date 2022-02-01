@@ -17,7 +17,7 @@ const wene = {
                         speaker: "pt_BR",
                         mentor: "Pedro Marins"
                       },
- challenge: "https://github.com/michelwene/e-commerce"
+ challenge: "e-commerce"
 }
 ```
 
