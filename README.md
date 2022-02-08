@@ -11,7 +11,7 @@ __
 const wene = {
   pronouns: "he",
   code: [Javascript, HTML, CSS],
-  tools: [React, Styled-Components, React Rocks],
+  tools: [React, Styled-Components, React Rocks, Bootstrap],
   techCommunities: {
                         coorganizer: "Conquiste sua vaga",
                         speaker: "pt_BR",
