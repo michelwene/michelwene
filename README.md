@@ -23,7 +23,7 @@ const wene = {
 
 - 🔭 Eu atualmente estou trabalhando em: [e-commerce](https://github.com/michelwene/e-commerce)
 
-- 🌱 Atualmente estou utilizando: **HTML, CSS, Javascript, ReactJS, Git.**
+- 🌱 Atualmente estou utilizando: **HTML, CSS, Bootstrap, Javascript, ReactJS, Git.**
 
 - 👨‍💻 Veja todos os meus projetos realizados: [https://github.com/michelwene?tab=repositories](https://github.com/michelwene?tab=repositories)
 
