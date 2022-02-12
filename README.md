@@ -7,20 +7,6 @@ __
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelwene&label=Profile%20views&color=0e75b6&style=flat" alt="michelwene" /> </p>
 
-```javascript
-const wene = {
-  pronouns: "he",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Styled-Components, React Rocks, Bootstrap],
-  techCommunities: {
-                        coorganizer: "Conquiste sua vaga",
-                        speaker: "pt_BR",
-                        mentor: "Pedro Marins"
-                      },
- challenge: "e-commerce"
-}
-```
-
 - 🔭 Eu atualmente estou trabalhando em: [e-commerce](https://github.com/michelwene/e-commerce)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Bootstrap, Javascript, ReactJS, Git.**
