@@ -7,7 +7,7 @@ __
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelwene&label=Profile%20views&color=0e75b6&style=flat" alt="michelwene" /> </p>
 
-- 🔭 Eu atualmente estou trabalhando em: [e-commerce](https://github.com/michelwene/e-commerce)
+- 🔭 Eu atualmente estou trabalhando em: [react-explorer](https://github.com/michelwene/react-explorer)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, Bootstrap, Javascript, ReactJS, Git.**
 
