@@ -13,7 +13,7 @@ __
 
 - 👨‍💻 Veja todos os meus projetos realizados: [https://github.com/michelwene?tab=repositories](https://github.com/michelwene?tab=repositories)
 
-- 💬 Pergunte-me sobre: **HTML, CSS, SASS, Javascript, ReactJS, Git, VSCode**
+- 💬 Pergunte-me sobre: **HTML, CSS, SASS, Javascript,TypeScript, ReactJS, Git, VSCode**
 
 - 📫 Como você pode me contatar: **michelwene@hotmail.com**
 
