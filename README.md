@@ -11,8 +11,6 @@ __
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Bootstrap, Javascript, ReactJS, Git.**
 
-- 👨‍💻 Veja todos os meus projetos realizados: [https://github.com/michelwene?tab=repositories](https://github.com/michelwene?tab=repositories)
-
 - 💬 Pergunte-me sobre: **HTML, CSS, SASS, Javascript, TypeScript, ReactJS, Git, VSCode**
 
 - 📫 Como você pode me contatar: **michelwene@hotmail.com**
