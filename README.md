@@ -7,7 +7,7 @@ __
 
 - 🔭 Eu atualmente estou trabalhando em: [todo-app](https://github.com/michelwene/todo-app)
 
-- 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Bootstrap, Javascript, ReactJS, Git.**
+- 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Bootstrap, Javascript,Typescript, ReactJS, Git.**
 
 - 📫 Como você pode me contatar: **michelwene@hotmail.com**
 
