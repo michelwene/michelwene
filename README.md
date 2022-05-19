@@ -5,7 +5,7 @@ __
 <h1 align="center">Oi 👋, Meu nome é Michel Wene</h1>
 <h3 align="center">Sou desenvolvedor de software Front-end</h3>
 
-- 🔭 Eu atualmente estou trabalhando em: [Github-explorer](https://github.com/michelwene/Github-explorer)
+- 🔭 Eu atualmente estou trabalhando em: [rest-countries-with-color-theme-switcher](https://github.com/michelwene/rest-countries-with-color-theme-switcher)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Bootstrap, Javascript,Typescript, ReactJS, NextJS, Git.**
 
