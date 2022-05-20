@@ -7,7 +7,7 @@ __
 
 - 🔭 Eu atualmente estou trabalhando em: [rest-countries-with-color-theme-switcher](https://github.com/michelwene/rest-countries-with-color-theme-switcher)
 
-- 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Bootstrap, Javascript,Typescript, ReactJS, NextJS, Git.**
+- 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Bootstrap, Javascript,Typescript, ReactJS, NextJS, Testes unitários com Jest, Git.**
 
 - 📫 Como você pode me contatar: **michelwene@hotmail.com**
 
