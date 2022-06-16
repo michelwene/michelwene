@@ -7,7 +7,7 @@ __
 
 - 🔭 Eu atualmente estou trabalhando em: [https://github.com/michelwene/RentX](https://github.com/michelwene/RentX)
 
-- 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Bootstrap, Javascript,Typescript, ReactJS, NextJS, Testes unitários com Jest, Git.**
+- 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Tailwind CSS, Chakra UI, Javascript,Typescript, ReactJS, NextJS, Testes unitários com Jest, Git.**
 
 - 📫 Como você pode me contatar: **michelwene@hotmail.com**
 
