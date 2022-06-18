@@ -26,9 +26,4 @@ __
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michelwene&theme=dark" alt="michelwene" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelwene&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="michelwene" />
-&nbsp;
-</p>
-
 
