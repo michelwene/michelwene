@@ -5,7 +5,7 @@ __
 <h1 align="center">Oi 👋, Meu nome é Michel Wene</h1>
 <h3 align="center">Sou desenvolvedor de software Front-end</h3>
 
-- 🔭 Eu atualmente estou trabalhando em: [https://github.com/michelwene/RentX](https://github.com/michelwene/RentX)
+- 🔭 Eu atualmente estou trabalhando na: [https://supliu.com.br/](https://supliu.com.br/)
 
 - 🌱 Atualmente estou utilizando: **HTML, CSS, SASS, Tailwind CSS, Chakra UI, Javascript,Typescript, ReactJS, NextJS, Testes unitários com Jest, Git.**
 
