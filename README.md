@@ -1,5 +1,3 @@
-[![@michelwene's Holopin board](https://holopin.me/michelwene)](https://holopin.io/@michelwene)
-
 __
 
 <h1 align="center">Oi 👋, Meu nome é Michel Wene</h1>
